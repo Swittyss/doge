@@ -1,5 +1,5 @@
 # Doge
-                            Moderation, Fun, Ticket system and XP system
+Moderation, Fun, Ticket system and XP system
 - Discord Server: [Click](http://discord.swittys.ml)
 ---
  Languages and Tools using:
