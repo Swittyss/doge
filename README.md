@@ -12,7 +12,7 @@ Moderation, Fun, Ticket system and XP system
 -
 **Features**:
 ---
-- Moderation
+- __Moderation__
 -  help - show all available commands
  - mute - mute a user
 -  unmute - unmute a user
