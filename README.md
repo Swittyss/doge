@@ -32,4 +32,6 @@ Moderation, Fun, Ticket system and XP system
  - meme - show a random meme
  - love - show how mutch a current user loves you
  
+ - __Configuration__
+ 
  
