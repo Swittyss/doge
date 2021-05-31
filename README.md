@@ -31,22 +31,22 @@ Moderation, Fun, Ticket system and XP system
  - cat - show a random cat picture
  - meme - show a random meme
  - love - show how mutch a current user loves you
- 
+ ---
  - __Configuration__
-language = Change bot language.
-usage: -lang [language]
-prefix = Set custom Prefix for the server.
-usage: -prefix [type prefix]
-welcome-channel = Set Welcome channel for the messages.
-usage: -welcomechannel [#channel]
-welcome-message = Set welcome message for the server.
-usage: -welcomemessage [message]
-report-channel = Set report channel for the server.
-usage: -reportchannel [#channel]
-config Clear = Clear selected data from the configuration.
-usage: -config-clear
-welcomerole = Set role that will be given when user joined the server.
-usage: -welcomerole @role
-ticket-setup = Set up ticket system.
-usage: -ticket-setup
- 
+- language = Change bot language.
+- usage: -lang [language]
+- prefix = Set custom Prefix for the server.
+- usage: -prefix [type prefix]
+- welcome-channel = Set Welcome channel for the messages.
+- usage: -welcomechannel [#channel]
+- welcome-message = Set welcome message for the server.
+- usage: -welcomemessage [message]
+- report-channel = Set report channel for the server.
+- usage: -reportchannel [#channel]
+- config Clear = Clear selected data from the configuration.
+- usage: -config-clear
+- welcomerole = Set role that will be given when user joined the server.
+- usage: -welcomerole @role
+- ticket-setup = Set up ticket system.
+- usage: -ticket-setup
+ ---
