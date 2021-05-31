@@ -33,18 +33,20 @@ Moderation, Fun, Ticket system and XP system
  - love - show how mutch a current user loves you
  
  - __Configuration__
- Language
-Set bot language on server. -lang [language]
-Prefix
-Set custom Prefix on the server. -prefix [type of prefix]
-Welcome Channel
- Set Welcome channel for the messages. -welcomechannel [ #channel ]
-Welcome Message
-Set welcome message for the server. -welcomemsg [ message ]
-Report Channel
-Set report channel for the server. -reportchannel [ #channel ]
-Welcome role
-Set role that will be given when user joined the server. -welcomerole @role
-Ticket Setup
-Set up ticket system. -ticket-setup
+language = Change bot language.
+usage: -lang [language]
+prefix = Set custom Prefix for the server.
+usage: -prefix [type prefix]
+welcome-channel = Set Welcome channel for the messages.
+usage: -welcomechannel [#channel]
+welcome-message = Set welcome message for the server.
+usage: -welcomemessage [message]
+report-channel = Set report channel for the server.
+usage: -reportchannel [#channel]
+config Clear = Clear selected data from the configuration.
+usage: -config-clear
+welcomerole = Set role that will be given when user joined the server.
+usage: -welcomerole @role
+ticket-setup = Set up ticket system.
+usage: -ticket-setup
  
